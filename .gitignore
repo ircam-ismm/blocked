@@ -8,3 +8,4 @@ dist
 # bundled files
 *.umd.js
 *.min.js
+package-lock.json
