@@ -1,6 +1,6 @@
 {
   "name": "@ircam/blocked",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "test for blockage in event loop",
   "main": "dist/index.js",
   "author": "jipodine",
