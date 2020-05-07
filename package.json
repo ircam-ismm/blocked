@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/ircam-jstools/blocked.git"
+    "url": "https://github.com/ircam-jstools/blocked.git"
   },
   "scripts": {
     "bundle": "node ./bin/runner --bundle",
