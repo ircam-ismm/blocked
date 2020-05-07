@@ -9,6 +9,10 @@
   "publishConfig": {
     "access": "public"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ircam-jstools/blocked.git"
+  },
   "scripts": {
     "bundle": "node ./bin/runner --bundle",
     "deploy": "np",

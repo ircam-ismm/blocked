@@ -1,3 +1,7 @@
+# temporary files
+*~
+.tern-port
+
 .babelrc
 jsdoc.conf
 

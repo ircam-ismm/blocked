@@ -5,6 +5,9 @@ Thumbs.db
 node_modules
 dist
 
+# ignore package-lock (sic)
+package-lock.json
+
 # bundled files
 *.umd.js
 *.min.js
