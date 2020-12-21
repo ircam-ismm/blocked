@@ -1,4 +1,4 @@
-class Blocked {
+export class Blocked {
   /**
    * @callback Blocked~report
    * @param {Number} duration of blockage, in milliseconds
